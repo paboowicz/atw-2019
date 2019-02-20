@@ -304,8 +304,8 @@ body {
 .sponsors_3 .sponsors-list li {
 	background:#fff;
 	outline: 1px dashed rgba(0, 0, 0, 0.5);
-	outline-offset:25px;
-	margin:40px 120px 40px;
+	outline-offset:5px;
+	margin:20px 10px 20px;
 	padding: 5px;
 }
 .owl-pagination {
@@ -3670,6 +3670,32 @@ footer .copyrights p:nth-child(2) a {
   text-align: center;
   margin-bottom: 25px;
   font-weight: bold;
+}
+
+.wsteczbox {
+margin-top: 20px;
+margin-bottom: 40px;
+
+}
+
+.wstecz {
+font-size: 14px;
+
+padding: 10px 50px;
+margin-bottom: 10px;
+
+text-transform: uppercase;
+
+border-radius: 20px;
+
+font-weight: 500;
+
+transition: .5s all;
+
+color: #2059a4;
+
+border: 1px solid #2059a4;
+  
 }
 /* Custom, iPhone Retina */
 
