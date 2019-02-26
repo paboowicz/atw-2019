@@ -537,7 +537,7 @@ header.header nav ul li a:hover {
 
 .main-jumbotron .container .buttons a {
   padding: 10px 20px;
-  border: 2px solid #ffe634;
+  border: 2px solid #ffffff;
   color: #ffe634;
   background: transparent;
   text-transform: capitalize;
@@ -545,7 +545,7 @@ header.header nav ul li a:hover {
   border-radius: 25px;
   transition: .5s all;
   color: #000;
-  background: #ffe634;
+  background: #ffffff;
   margin-left: 20px;
 }
 
