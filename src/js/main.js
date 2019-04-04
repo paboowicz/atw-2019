@@ -5,12 +5,12 @@ $(document).ready(function() {
        $('nav').toggleClass('active');
    });
          
-    $('.flag.GB').on('click', function(e){
+    /*$('.flag.GB').on('click', function(e){
     	alert('website will be available soon');
     }); 
     $('.flag.UK').on('click', function(e){
     	alert('сторiнка незабаром буде доступна');
-    });
+    });*/
 
     $('.menu').toggleClass('fixed', $(window).scrollTop() > 50);
 
