@@ -535,8 +535,9 @@ header.header nav ul li a:hover {
   margin-bottom: 30px;
 }
 
+
 .main-jumbotron .container .buttons a {
-  padding: 10px 20px;
+  padding: 10px 15px;
   border: 2px solid #ffffff;
   color: #ffe634;
   background: transparent;
@@ -546,12 +547,16 @@ header.header nav ul li a:hover {
   transition: .5s all;
   color: #000;
   background: #ffffff;
-  margin-left: 20px;
+  /* margin-left: 20px; */
 }
 
 .main-jumbotron .container .buttons a:hover {
   background: #ffe634;
   color: #fff;
+}
+.aukcja{
+    background: #ffe634 !important;
+
 }
 
 .main-jumbotron2 {
