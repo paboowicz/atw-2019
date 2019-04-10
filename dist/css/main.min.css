@@ -556,7 +556,7 @@ header.header nav ul li a:hover {
 }
 .aukcja{
     background: #ffe634 !important;
-
+	margin-top: 20px;
 }
 
 .main-jumbotron2 {
@@ -3313,7 +3313,7 @@ footer .copyrights p:nth-child(2) a {
     padding-left: 30px;
   }
   .main-jumbotron .container .buttons {
-    margin-top: 120px;
+    margin-top: 0px;
   }
   .main-jumbotron .container .buttons a {
     margin-left: 0;
@@ -3510,7 +3510,7 @@ footer .copyrights p:nth-child(2) a {
     font-size: 40px;
   }
   .main-jumbotron .container .buttons {
-    margin-top: 120px;
+    margin-top: 0px;
   }
   .main-jumbotron .container .buttons a {
     margin-left: 0;
@@ -3703,6 +3703,22 @@ color: #2059a4;
 border: 1px solid #2059a4;
   
 }
+
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+
 /* Custom, iPhone Retina */
 
 /*# sourceMappingURL=main.min.css.map */
