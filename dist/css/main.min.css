@@ -3718,6 +3718,10 @@ border: 1px solid #2059a4;
     position:absolute;
 }
 
+.rowMargin{
+  margin: 0px 15px;
+}
+
 
 /* Custom, iPhone Retina */
 
