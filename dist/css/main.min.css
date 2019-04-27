@@ -475,6 +475,15 @@ header.header nav ul li a:hover {
   position: relative;
 }
 
+.jumbotronAukcja {
+  height: 250px;
+  margin-bottom: 50px;
+  margin-top: 90px;
+  background: transparent url("../../src/assets/img/jumbotronAukcja.png") top no-repeat;
+  /* background-size: cover; */
+  position: relative;
+}
+
 .jumbotron .container {
   height: 100%;
   display: -webkit-box;
