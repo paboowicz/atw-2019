@@ -829,8 +829,8 @@ header.header nav ul li a:hover {
 .info .row .left .content p:nth-child(2),
 .contact .row .left .content p:nth-child(2) {
   font-size: 14px;
-  margin-bottom: 50px;
-}
+/*   margin-bottom: 50px;
+ */}
 
 .info .row .left .content:after,
 .contact .row .left .content:after {
