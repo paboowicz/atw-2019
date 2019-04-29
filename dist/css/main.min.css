@@ -478,7 +478,7 @@ header.header nav ul li a:hover {
 .jumbotronAukcja {
   height: 250px;
   margin-bottom: 50px;
-  margin-top: 90px;
+  margin-top: 80px;
   background: transparent url("../../src/assets/img/jumbotronAukcja.png") top no-repeat;
   /* background-size: cover; */
   position: relative;
