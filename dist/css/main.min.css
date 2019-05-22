@@ -622,7 +622,8 @@ header.header nav ul li a:hover {
 
 .aside-small-header h4 {
   text-indent: calc((100vw - 1140px) / 2);
-  background: linear-gradient(-90deg, #6fb52b, #afca1e);
+  /*background: linear-gradient(-90deg, #6fb52b, #afca1e);*/
+  background-color: red; 
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -631,7 +632,8 @@ header.header nav ul li a:hover {
   height: 2px;
   width: 100%;
   border: none;
-  background: linear-gradient(-90deg, #6fb52b, #afca1e);
+  /*background: linear-gradient(-90deg, #6fb52b, #afca1e);*/
+  background-color: red;
   margin-top: 0;
 }
 
