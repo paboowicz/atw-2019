@@ -1216,6 +1216,12 @@ footer .copyrights p:nth-child(2) a {
   text-align: justify;
 }
 
+.descriptionIVATW {
+  font-size: 28px;
+  text-align: center;
+}
+
+
 .singleNews .newsContent .newsPhoto {
   display: -webkit-box;
   display: flex;
