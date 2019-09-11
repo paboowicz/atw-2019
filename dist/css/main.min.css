@@ -1213,6 +1213,7 @@ footer .copyrights p:nth-child(2) a {
 
 .descriptionPRzText {
   font-size: 16px;
+  text-align: justify;
 }
 
 .singleNews .newsContent .newsPhoto {
