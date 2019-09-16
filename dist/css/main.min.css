@@ -476,6 +476,15 @@ header.header nav ul li a:hover {
   position: relative;
 }
 
+.jumbotronWydTow {
+  height: 250px;
+  margin-bottom: 50px;
+  margin-top: 70px;
+  background: transparent url("../../src/assets/img/jumbotronWydTow.png") left top no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
 .jumbotronAukcja {
   height: 250px;
   margin-bottom: 50px;
