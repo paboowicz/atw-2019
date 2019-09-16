@@ -471,8 +471,8 @@ header.header nav ul li a:hover {
   height: 250px;
   margin-bottom: 50px;
   margin-top: 70px;
-  background: transparent url("../../src/assets/img/jumbotron.png") left top no-repeat;
-  background-size: cover;
+  background: transparent url("../../src/assets/img/jumbotron.png") center no-repeat;
+  background-size: contain;
   position: relative;
 }
 
@@ -480,10 +480,20 @@ header.header nav ul li a:hover {
   height: 250px;
   margin-bottom: 50px;
   margin-top: 70px;
-  background: transparent url("../../src/assets/img/jumbotronWydTow.png") left top no-repeat;
-  background-size: cover;
+  background: transparent url("../../src/assets/img/jumbotronWydTow.png") center no-repeat;
+  background-size: contain;
   position: relative;
 }
+
+.jumbotronKontakt {
+  height: 250px;
+  margin-bottom: 50px;
+  margin-top: 70px;
+  background: transparent url("../../src/assets/img/jumbotronKontakt.png") center no-repeat;
+  background-size: contain;
+  position: relative;
+}
+
 
 .jumbotronAukcja {
   height: 250px;
