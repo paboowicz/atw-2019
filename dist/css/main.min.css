@@ -559,15 +559,17 @@ header.header nav ul li a:hover {
   max-width: 550px;
 }
 
-.main-jumbotron .container .buttons {
+.main-jumbotron-buttons .container .buttons {
   margin-top: 20px;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
+  text-align: center;
+  line-height: 306%;
 }
 
 
-.main-jumbotron .container .buttons a {
+.main-jumbotron-buttons .container .buttons a {
   padding: 10px 15px;
-  border: 2px solid #ffffff;
+  border: 2px solid #ffe634;
   color: #ffe634;
   background: transparent;
   text-transform: capitalize;
@@ -579,7 +581,7 @@ header.header nav ul li a:hover {
   /* margin-left: 20px; */
 }
 
-.main-jumbotron .container .buttons a:hover {
+.main-jumbotron-buttons .container .buttons a:hover {
   background: #ffe634;
   color: #fff;
 }
@@ -1049,7 +1051,7 @@ header.header nav ul li a:hover {
 }
 
 .assosiates .row {
-  margin: 50px 0;
+  margin: 10px 0 0 0;
 }
 
 .assosiates .row img {
@@ -3793,7 +3795,11 @@ border: 1px solid #2059a4;
     opacity: 0;
 }
 
-
+.carousel-inner > .item > img, 
+.carousel-inner > .item > a > img{
+width: 100%; /* use this, or not */
+margin: auto;
+}
 /* Custom, iPhone Retina */
 
 /*# sourceMappingURL=main.min.css.map */
