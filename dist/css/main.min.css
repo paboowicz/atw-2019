@@ -632,7 +632,7 @@ header.header nav ul li a:hover {
   width: 640px;
   position: absolute;
   left: 0;
-  margin-top: -123px;
+  margin-top: 0px;
 }
 
 .aside-small-headerPatronatMedialny {
@@ -907,7 +907,9 @@ header.header nav ul li a:hover {
 
 .for-visitors .row,
 .for-expositors .row {
-  height: 350px;
+  /* height: 350px; */
+  padding-top: 80px;
+  padding-bottom: 30px;
   margin-bottom: 15px;
   display: -webkit-box;
   display: flex;
@@ -1052,6 +1054,8 @@ header.header nav ul li a:hover {
 
 .assosiates .row {
   margin: 10px 0 0 0;
+  margin-top: 80px;
+  margin-bottom: 30px
 }
 
 .assosiates .row img {
@@ -1067,7 +1071,7 @@ header.header nav ul li a:hover {
 footer {
   /*min-height: 400px;*/
   background-color: #154c98;
-  padding: 60px 0;
+  padding: 0px 0px 50px 0;
 }
 
 footer img {
@@ -1865,7 +1869,8 @@ footer .copyrights p:nth-child(2) a {
   max-width: 480px;
   margin: 0 auto;
   padding: 20px;
-  min-height: 450px;
+  margin-bottom: 50px;
+ /*  min-height: 450px; */
 }
 
 .forExhibitors .row .info-banner img,
@@ -1970,11 +1975,11 @@ footer .copyrights p:nth-child(2) a {
 .forExhibitors .row .info-banner a,
 .forVisitors .row .info-banner a {
   font-size: 14px;
-  padding: 10px 10px;
+  padding: 10px 50px;
   color: #507eba;
   border: 2px solid #507eba;
   border-radius: 20px;
-  display: block;
+  /* display: block; */
   max-width: 140px;
   margin: 0 auto;
 }
